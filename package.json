@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "web-vitals": "^2.1.4"
@@ -14,7 +15,6 @@
     "@tailwindcss/forms": "^0.5.3",
     "autoprefixer": "^10.4.13",
     "cssnano": "^5.1.14",
-    "gh-pages": "^4.0.0",
     "postcss": "^8.4.19",
     "postcss-cli": "^10.1.0",
     "prettier": "^2.8.1",
