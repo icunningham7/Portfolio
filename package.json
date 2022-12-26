@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "https://icunningham7.github.io/Portfolio/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
@@ -23,6 +24,7 @@
     "@svgr/webpack": "^6.5.1"
   },
   "scripts": {
+    "deploy": "npm run build",
     "start": "react-scripts  --openssl-legacy-provider start",
     "build": "react-scripts  --openssl-legacy-provider build",
     "test": "react-scripts  --openssl-legacy-provider test",
