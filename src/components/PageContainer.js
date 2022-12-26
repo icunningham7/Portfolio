@@ -22,9 +22,6 @@ export default function PortfolioContainer({pageHash}) {
     };
 
     const handlePageChange = (page) => setCurrentPage(page);
-    console.log('pageHash:', {pageHash});
-
-    console.log('currentPage:', currentPage);
     return (
         <div className='min-h-screen flex flex-col relative'>
             <Header currentPage={currentPage} handlePageChange={handlePageChange} />
@@ -33,8 +30,3 @@ export default function PortfolioContainer({pageHash}) {
         </div>
     );
 }
-
-
-PortfolioContainer.defaultProps = {
-    pageHash: '#about'
-};

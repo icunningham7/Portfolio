@@ -4,8 +4,8 @@ const About = () => {
     return (
         <main className='justify-self-start pt-10'>
             <section className='w-4/5 m-auto flex flex-col sm:flex-row'>
-                <div className="section-header sm:pt-[10%] sm:w-[13%] sm:mr-[2%]">
-                    <h2 className='text-2xl sm:text-xl'>
+                <div className="section-header sm:pt-10 sm:w-[13%] sm:mr-[2%] text-right">
+                    <h2 className='text-3xl sm:text-xl'>
                         About Me
                     </h2>
                 </div>
