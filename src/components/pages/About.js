@@ -12,7 +12,7 @@ const About = () => {
                 <div className="section-body project-list sm:pl-[3%] border-t-2 mt-4 pt-4 sm:pt-0 sm:mt-0 sm:border-t-0 sm:border-l-2 border-teal-900">
 
                     <div className='portrait inline'>
-                        <img className='object-cover float-right min-h-40 max-h-96 min-w-40 max-w-96 pl-4' src="/assets/portfolio_portrait.jpg" alt="Portrait of Ian Cunningham" />
+                        <img className='object-cover float-right min-h-40 max-h-96 min-w-40 max-w-96 pl-4' src="./assets/portfolio_portrait.jpg" alt="Portrait of Ian Cunningham" />
                     </div>
                     <p>
                         Pellentesque sit amet porttitor eget dolor morbi non arcu risus. Laoreet non curabitur gravida arcu

@@ -1,4 +1,5 @@
 import React from 'react';
+import resume from '../../'
 
 const Resume = () => {
     return (
@@ -10,7 +11,7 @@ const Resume = () => {
                     </h2>
                 </div>
                 <div className='section-body project-list sm:pl-[3%] border-t-2 mt-4 pt-4 sm:pt-0 sm:mt-0 sm:border-t-0 sm:border-l-2 border-teal-900'>
-                    <button className='rounded p-2 bg-teal-900 text-slate-50'><a href='/assets/IanCuninghamResume2022.pdf'>My Resume</a><i className='fa-regular fa-file pl-2'></i></button>
+                    <button className='rounded p-2 bg-teal-900 text-slate-50'><a href='./assets/IanCuninghamResume2022.pdf'>My Resume</a><i className='fa-regular fa-file pl-2'></i></button>
 
                     <div className='pt-10'>
                         <h3 className='text-xl'>Profiencies</h3>
