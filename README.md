@@ -6,6 +6,7 @@
 Hi there! I'm Ian, and I am a full stack developer with a passion for creating intuitive and visually appealing web applications. With a good foundation in both front-end and back-end technologies, and have gained valuable experience working on a variety of projects, including an RPA app for testing build quality, an logging page performance blended with marketing data, and a PWA text editor.
 
 In my current role as a Technical Manager, I am responsible for directing two development teams and several projects. I am always looking for ways to improve my skills, develop more, and stay up-to-date with the latest technologies and best practices in web development.
+
 Live URL: https://icunningham7.github.io/Portfolio/
 
 ![Portfolio Mockup](./assets/portfolio_mockup.png)
