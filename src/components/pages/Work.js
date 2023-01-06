@@ -17,7 +17,7 @@ const Work = () => {
 
                     <ProjectCard title='JATE Text Editor' description='Express/PWA' repoLink='https://github.com/icunningham7/JATE' demoLink='https://murmuring-bastion-19282.herokuapp.com/' imageSrc='./assets/JATE-Demo.gif' imageAlt='JATE text editor progressive web app mockup' />
 
-                    <ProjectCard title='Pastel Puzzels' description='MERN Stack' repoLink='https://github.com/icunningham7/#fourth-project' imageSrc='https://via.placeholder.com/400x350.png?text=Project+4' imageAlt='Pastel Puzzels Project' />
+                    <ProjectCard title='Build-A-Bingo' description='MERN Stack' repoLink='https://github.com/aBraveNewURL/Build_A_Bingo' demoLink='https://build-a-bingo.herokuapp.com/' imageSrc='./assets/Build-A-Bingo.png' imageAlt='Build-A-Bingo Project' />
 
                     <ProjectCard title='Run Buddy' description='HTML/CSS' repoLink='https://github.com/icunningham7/#fifth-project' imageSrc='https://via.placeholder.com/400x350.png?text=Project+5' imageAlt='Run Buddy Project' />
 

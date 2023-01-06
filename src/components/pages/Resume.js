@@ -14,7 +14,7 @@ const Resume = () => {
                     <button className='rounded p-2 bg-teal-900 text-slate-50'><a href='./assets/IanCuninghamResume2022.pdf'>My Resume</a><i className='fa-regular fa-file pl-2'></i></button>
 
                     <div className='pt-10'>
-                        <h3 className='text-xl'>Profiencies</h3>
+                        <h3 className='text-xl'>Proficiencies</h3>
                         <div>
                             <div>
                                 <h4 className='text-lg'>Languages</h4>
